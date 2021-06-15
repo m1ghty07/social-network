@@ -1,0 +1,8 @@
+.post {
+color: greenyellow;
+}
+
+.post img {
+  width: 50px;
+  border-radius: 30px;
+}
