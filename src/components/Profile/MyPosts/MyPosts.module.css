@@ -1,5 +1,9 @@
 .posts {
   grid-area: c;
   background-color: yellow;
+  margin-top: 10px;
 }
 
+.postsBlock {
+  padding: 10px;
+}
